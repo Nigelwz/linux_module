@@ -1,0 +1,1 @@
+cmd_/home/eric/jserv_course/module_test/exploringBB/extras/kernel/hello/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/eric/jserv_course/module_test/exploringBB/extras/kernel/hello/hello.ko /home/eric/jserv_course/module_test/exploringBB/extras/kernel/hello/hello.o /home/eric/jserv_course/module_test/exploringBB/extras/kernel/hello/hello.mod.o
